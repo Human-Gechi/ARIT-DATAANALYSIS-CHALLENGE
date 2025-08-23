@@ -1,0 +1,8 @@
+,InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,Totalprice,YearMonth
+4287,536757,84347,ROTATING SILVER ANGELS T-LIGHT HLDR,9360,2010-12-02 14:23:00,0.03,15838,United Kingdom,280.8,2010-12
+74614,542504,37413,,5568,2011-01-28 12:03:00,0.0,0,United Kingdom,0.0,2011-01
+115818,546152,72140,throw away,5368,2011-03-09 17:25:00,0.0,0,United Kingdom,0.0,2011-03
+225528,556687,23003,Printing smudges/thrown away,9058,2011-06-14 10:36:00,0.0,0,United Kingdom,0.0,2011-06
+225529,556690,23005,printing smudges/thrown away,9600,2011-06-14 10:37:00,0.0,0,United Kingdom,0.0,2011-06
+225530,556691,23005,printing smudges/thrown away,9600,2011-06-14 10:37:00,0.0,0,United Kingdom,0.0,2011-06
+502122,578841,84826,ASSTD DESIGN 3D PAPER STICKERS,12540,2011-11-25 15:57:00,0.0,13256,United Kingdom,0.0,2011-11
